@@ -1,0 +1,25 @@
+{
+	"name": "cocode.co",
+	"version": "0.1.0",
+	"description": "Cocode.co Command Line Tools",
+	"keywords": ["programming", "code", "challenge"],
+	"homepage": "http://cocode.co",
+	"license": "MIT",
+	"main": "main.js",
+	"author": {
+		"name": "Sergio Garcia Mondaray <sgmonda@gmail.com> (http://www.sgmonda.com)"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sgmonda/cocode.co"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"jasmine-node": "1.14.2",
+		"jshint": "2.5.1"
+	},
+	"engines": {
+		"node": "*"
+	},
+	"readmeFilename": "README.md"
+}
